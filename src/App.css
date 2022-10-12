@@ -1,0 +1,17 @@
+.fa{
+    color:rgb(248, 179, 28) ;
+    font-size: 100px;
+}
+button{
+    color: white !important; 
+    background-color: yellow;
+}
+.nav-container{
+   width: 60%; 
+   margin-left: 20%;
+
+}
+.nav-link{
+    margin-left: 60px;
+    color: white !important;
+}

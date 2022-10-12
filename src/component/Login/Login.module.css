@@ -1,0 +1,39 @@
+.container{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-6{
+    margin-top: 150px; 
+    background-color: aliceblue;
+    height: auto;
+}
+.books{
+    margin-top: -65px !important;
+    width: 250px !important;
+    height: 200px !important;
+}
+.text-warning{
+    margin-left: 250px;
+    margin-top: -60px !important;
+}
+ .row{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.textArea{
+    padding-top: 150px;
+    padding-left: 150px;
+    margin-top: 50px !important;
+    color: orange !important;
+       
+}
+.button-margin{
+    margin-left: 100px;
+    background-color: orange;
+    color: white;
+}
+.icons{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 5px;
+}
